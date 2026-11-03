@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pdf
+*.ris
+*.enl
+*.sqlite*
+*.log
+.env*
+downloads/
+progress/
